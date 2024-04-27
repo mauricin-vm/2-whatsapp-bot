@@ -73,7 +73,7 @@ Built With:
 <!-- ROADMAP -->
 ## ROADMAP
 
-See the [open issues](https://github.com/mauricin-vm/2-whatsapp-bot/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/mauricin-vm/1-commits-structure/issues) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 ## LICENSE
